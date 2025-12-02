@@ -3,11 +3,6 @@
 - 🌱 I’m currently continuing my learning - in PHP, Vanilla JS, Vue, Ionic, MYSQL, MongoDB, React, Java, C++, &c. - by coding projects for personal and work use...
 - 📫 How to reach me:
 
-Email: Devii@topsolutionsbydevii.tech
+Email: devii@naicker.tech
 Facebook: www.facebook.com/devashan.naicker1
-Twitter: @Devii_108
-
-<!---
-Devashan/Devashan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Twitter: @Devii_108 
